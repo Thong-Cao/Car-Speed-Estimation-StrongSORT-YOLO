@@ -12,9 +12,9 @@
 
 ## About the Dataset
 This repository contains a simulated credit card transaction dataset containing both legitimate and fraudulent transactions. The dataset covers transactions that occurred from January 1st, 2019 to December 31st, 2020. It encompasses credit card transactions involving 1000 customers interacting with a pool of 800 merchants.
-
+Source dataset: [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 ## Source of Simulation
-The dataset was generated using the **Sparkov Data Generation** tool developed by Brandon Harris, available on [GitHub](https://github.com/username/sparkov-data-generation). The simulation was conducted for the period from January 1st, 2019 to December 31st, 2020. The generated files were aggregated and transformed into a standardized format for ease of use.
+The dataset was generated using the **Sparkov Data Generation** tool developed by Brandon Harris, available on [GitHub](https://github.com/namebrandon/Sparkov_Data_Generation). The simulation was conducted for the period from January 1st, 2019 to December 31st, 2020. The generated files were aggregated and transformed into a standardized format for ease of use.
 
 ## Project Description
 The objective of this project is to build a credit card fraud detection system that can accurately classify customers based on their potential involvement in credit card fraud. To achieve this, a variety of powerful classification algorithms have been employed, including:
