@@ -40,7 +40,7 @@ In addition to utilizing these algorithms, feature selection using the Recursive
 - Support Vector Machine (SVM)
 - Random Forest
 - XGBoost
-
+- Bagging/Boosting/Voting Method
 ## Results
 
 ![Fraud Detection Results](results.png)
