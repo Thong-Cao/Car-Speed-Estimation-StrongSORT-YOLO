@@ -44,6 +44,7 @@ In addition to utilizing these algorithms, feature selection using the Recursive
 ## Results
 
 ![Fraud Detection Results](results1.png)
+
 The results of the classification models are saved in an Excel spreadsheet named `FraudDetect-Results.xlsx`. This file includes detailed information about each algorithm's performance metrics, such as accuracy, precision, recall, and F1-score, allowing for easy comparison and evaluation of the models.
 
 
