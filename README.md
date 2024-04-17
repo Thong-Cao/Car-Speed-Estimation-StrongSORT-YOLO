@@ -6,7 +6,6 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Algorithms Used](#algorithms-used)
-- [Usage](#usage)
 - [Results](#results)
 
 
